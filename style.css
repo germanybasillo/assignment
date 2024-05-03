@@ -51,8 +51,40 @@ margin-left: 170px;
 text-align: center;
 margin-top: 50px;
 }
+
 th{
     color: #22378A;
     font-size: inherit;
     font-weight: bold;
+}
+
+.image{
+    margin-left:600px; 
+    margin-top: -170px;
+}
+
+h1{
+    font-weight: bold;
+    font-size: 24px;
+    color: #333;
+}
+
+.content{
+    font-size: 16px;
+    color:#666;
+}
+
+h2{
+    color:#22378A;
+    font-style: italic;
+    font-weight: bold;
+}
+
+table{
+    width: 80%;
+}
+
+.images{
+    transform: scaley(-1);
+    width: 50%;
 }
