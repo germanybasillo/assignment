@@ -158,7 +158,7 @@ h2{
     #a{
         position: absolute;
         transform: rotate(270deg);
-        margin-top: -115px;
+        margin-top: -80px;
         width: 100px;
         margin-left: -40px;
     }
@@ -166,26 +166,50 @@ h2{
     #b{
         position: absolute;
         transform: rotate(270deg);
-        margin-top: 55px;
+        margin-top: 70px;
         width: 100px;
-        margin-left: -110px;
+        margin-left: -50px;
     }
  
     #c{
         position: absolute;
         transform: rotate(270deg);
-        margin-top: 210px;
+        margin-top: 230px;
         width: 100px;
-        margin-left: -180px;
+        margin-left: -60px;
     }
     #d{
         position: absolute;
         transform: rotate(270deg);
         margin-top: 380px;
         width: 100px;
-        margin-left: -260px;
+        margin-left: -70px;
     }
     #me{
-        height: 900px;
+        height: 850px;
+    }
+
+    #e{
+        position: absolute;
+        margin-top: -10px;
+        margin-left: 10px;
+    }
+
+    #f{
+        position: absolute;
+        margin-top: 140px;
+        margin-left: -10px;
+    }
+    
+    #g{
+        position: absolute;
+        margin-top: 300px;
+        margin-left: -10px;
+    }
+
+    #h{
+        position: absolute;
+        margin-top: 450px;
+        margin-left: -10px;
     }
 }
